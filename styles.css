@@ -1,0 +1,18 @@
+ body {
+      background-color: darkgoldenrod;
+    }
+
+ .h1-title {
+    color: black;
+    font-size: 3rem;
+ }
+
+  .p-about {
+    color: lightgray;
+    font-size: 1.5rem;
+  }
+
+  .link {
+    color: lightgray;
+    text-decoration: none;
+  }
